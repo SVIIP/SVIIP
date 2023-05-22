@@ -1,0 +1,30 @@
+.main-link {
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+}
+body{
+    /* background-image: url(logo-background.png); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Raleway';
+}
+
+.card{
+    background-color: #fff;
+    padding: 1.5%;
+    border-radius: 5px;
+    transition-duration: 0.5s;
+    margin: 2.25%;
+    border: none;
+    font-weight: bold;
+}
+.card:hover{
+    background-color: #fff;
+    padding: 2.5%;
+    border-radius: 15px;
+    transition-duration: 0.5s;
+    font-size: large;
+
+}
